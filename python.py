@@ -38,3 +38,10 @@ print(data.head())
 # To specify the exact versions of packages needed, ensure consistency across
 # users and environments, and make it easier to install needed dependencies.
 
+# Recipe: 
+# 1. Create new github repo or fork existing one to account, create codespace from repo
+# 2. Open VSCode locally and connect to codespace
+# 3. Create a virtual environment (python -m venv .venv)and activate it (source .venv/bin/activate)
+# 4. Install required packages using pip and/or requirements.txt (pip install -r requirements.txt)
+# 5. Install Data Wrangler extension in codespace (if not already installed)
+# 6. Use git to add any changes (git add .   git commit -m "commit msg"    git push)
