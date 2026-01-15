@@ -45,3 +45,4 @@ print(data.head())
 # 4. Install required packages using pip and/or requirements.txt (pip install -r requirements.txt)
 # 5. Install Data Wrangler extension in codespace (if not already installed)
 # 6. Use git to add any changes (git add .   git commit -m "commit msg"    git push)
+# 7. Make sure your .gitignore includes your .venv and any other private files
